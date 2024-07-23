@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+    padding: 0%;
+    margin: 50px 0px 0px 0px;
+}
+
+.body{
+    background-color: blue;
+    margin: 0px 100px 0px 100px;
+    height: 100vh;
+    padding:50px 100px 0px 100px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.container{
+    background-color: cyan;
+    height: 100%;
+    width: 100%;
+}
+
+label{
+    margin-bottom: 50px;
+}
